@@ -22,4 +22,4 @@
 
 ## Help
 
-해당 프로젝트와 관련된 문의사항은 직접 네이버 채팅(차뫼)으로 알려주시거나 Pull request로 알려주시기 바랍니다. 추가적인 부분은 [chamwhy8@gmail.com](mailto:chamwhy8@gmail.com)로 연락주세요
+해당 프로젝트와 관련된 문의사항은 직접 네이버 채팅(차뫼)으로 알려주시거나 [Issues](https://github.com/chamwhy-farm/wakmurun/issues)로 알려주시기 바랍니다. 추가적인 부분은 [chamwhy8@gmail.com](mailto:chamwhy8@gmail.com)로 연락주세요
