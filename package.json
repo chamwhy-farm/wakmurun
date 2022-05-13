@@ -24,6 +24,13 @@
     "typescript": "^4.6.4"
   },
   "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express-session": "^1.17.2",
+    "mongoose": "^6.3.2",
+    "mongoose-session": "^0.0.4",
+    "passport": "^0.5.2",
+    "passport-naver-v2": "^2.0.8",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-router-dom": "^6.3.0",
